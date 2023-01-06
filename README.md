@@ -1,5 +1,5 @@
 <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
-<h1 align="center">Hi 👋, My name Karim Aziz</h1>
+<h1 align="center">Hi 👋, My name is Karim Aziz</h1>
 <h3 align="center">I am a front-end developer, experienced with (html, css, javascript, cpp)</h3>
 
 
