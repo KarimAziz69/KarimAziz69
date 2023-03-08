@@ -3,7 +3,7 @@
 <h3 align="center">I am a front-end developer, experienced with (html, css, javascript, cpp)</h3>
 
 
-- 🌱 I’m currently learning: **React.js, c++, javascript.**
+- 🌱 I’m currently learning: **React.js.**
 
 - 👨‍💻 check out my linkedin: [https://www.linkedin.com/in/karim-aziz-378a60233/](https://www.linkedin.com/in/karim-aziz-378a60233/)
 
