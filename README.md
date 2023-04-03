@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/karimaziz69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="karimaziz69" height="30" width="40" /></a>
-<a href="https://twitter.com/karimaziz12_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karimaziz12_" height="30" width="40" /></a>
+<a href="https://twitter.com/karimaziz69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karimaziz12_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/karim-aziz-378a60233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shorturl.at/iru45" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20741301/karimaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karimaziz69" height="30" width="40" /></a>
 </p>
